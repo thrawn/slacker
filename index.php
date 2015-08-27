@@ -10,5 +10,3 @@
 <h3>Oh, Hello There</h3>
 <img src="20121113-catster-cat-in-box-video-hero.jpg" />
 </body>
-<pre>ip-10-77-30-146.us-west-2.compute.internal</pre>
-</html>
